@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://raed1996t:raed5151@socialmedia-5o4pf.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "7eb152e976b07ef87f94",
+    "githubSecret": "a6ed3b00284f9c4a516b785136867481a1f0dde3"
+}
